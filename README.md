@@ -1,4 +1,4 @@
-# stage
+# Flutter App
 
 A new Flutter project.
 
